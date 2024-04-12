@@ -9,6 +9,7 @@ Github: https://github.com/mhtemizer
 My Server:
 
 Contabo
+
 Local Service Provider: Poyraz Hosting
 
 Validator mainnet:
